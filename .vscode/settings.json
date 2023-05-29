@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
+    "axhline",
+    "axvline",
     "colwidth",
     "dateutil",
     "ddayen",
@@ -15,6 +17,7 @@
     "lemmatization",
     "lemmatize",
     "Lemmatizer",
+    "linestyle",
     "nltk",
     "snscrape",
     "snscraper's",
